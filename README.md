@@ -50,7 +50,8 @@ contract MyToken is ERC20 {
     function burn(uint256 amount) external {
         _burn(msg.sender, amount); // Destroys tokens from the sender's address
     }
-}```
+}
+```
 5. Copy and paste the code from the provided code snippet into the file.
 6. Make sure you have the OpenZeppelin library imported correctly.
 7. Compile the contract using the appropriate Solidity compiler version (e.g., 0.8.0).
