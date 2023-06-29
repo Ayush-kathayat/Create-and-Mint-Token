@@ -52,11 +52,11 @@ contract MyToken is ERC20 {
     }
 }
 ```
-5. Copy and paste the code from the provided code snippet into the file.
-6. Make sure you have the OpenZeppelin library imported correctly.
-7. Compile the contract using the appropriate Solidity compiler version (e.g., 0.8.0).
-8. Deploy the contract to your desired Ethereum network, ensuring that you have sufficient funds to cover deployment costs.
-9. Take note of the deployed contract's address for future interactions.
+3. Copy and paste the code from the provided code snippet into the file.
+4. Make sure you have the OpenZeppelin library imported correctly.
+5. Compile the contract using the appropriate Solidity compiler version (e.g., 0.8.0).
+6. Deploy the contract to your desired Ethereum network, ensuring that you have sufficient funds to cover deployment costs.
+7. Take note of the deployed contract's address for future interactions.
 
 ### Interacting with the Contract
 
@@ -72,9 +72,8 @@ Please refer to the Solidity documentation for more information on interacting w
 
 ## Authors
 
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
+Ayush Kathayat
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.
